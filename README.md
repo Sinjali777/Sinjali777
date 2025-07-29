@@ -1,5 +1,4 @@
-
-
+![logo](https://github.com/Sinjali777/Sinjali777/blob/main/githubbanner.png)
 <h1 align="center">Hi 👋, I'm Sugam Sinjali</h1>
 <h3 align="center">A passionate Computer Engineering Student from Nepal</h3>
 
